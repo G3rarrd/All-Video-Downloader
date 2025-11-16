@@ -31,7 +31,7 @@
 - FFmpeg - for video post-processing
 
 ## Quick Start
-> [!Note] Ensure you are in the same directory as the AllVideoDownloader class when creating and running this python file.
+> [!NOTE] Ensure you are in the same directory as the AllVideoDownloader class when creating and running this python file.
 
 ``` python
 from all_video_downloader import AllVideoDownloader
