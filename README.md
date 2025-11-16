@@ -2,14 +2,14 @@
 # AllVideoDownloader
 **AllVideoDownloader** is a Python CLI tool that allows you to download videos and audio from multiple platforms like YouTube, TikTok, Instagram, and more. It supports format selection, automatic aspect ratio correction, and metadata extraction
 
-![alt text](VideoProject-ezgif.com-video-to-gif-converter(1).gif)
+![me](https://github.com/G3rarrd/All-Video-Downloader/blob/main/readme_media/tutorial.gif)
 
 ## Table of Contents
 - [Features](#features)
-- [Tech Stack](#tech%20stack)
-- [Quick Start](#quick%20start)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
 - [Installations](#installations)
-- [Repository Structure](#repository%20structure)
+- [Repository Structure](#repository-structure)
 
 ## Features
 - 🎬 Multi-platform support: YouTube, TikTok, Instagram, etc.
@@ -21,6 +21,7 @@
 ## Tech Stack
 **Language:**
 - Python 3.13
+
 **Dependencies:**
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - for downloading videos and audio
 - platformdirs - for locating the user's directories folder cross-platform 
