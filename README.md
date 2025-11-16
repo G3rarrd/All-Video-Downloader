@@ -64,7 +64,7 @@ python main.py
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/video_downloader.git
+git clone https://github.com/G3rarrd/All-Video-Downloader.git
 cd all_video_downloader
 ```
 
