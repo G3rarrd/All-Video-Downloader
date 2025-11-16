@@ -26,6 +26,7 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - for downloading videos and audio
 - platformdirs - for locating the user's directories folder cross-platform 
 - Python standard libraries: `pathlib`, `re`, `subprocess`,`json`,`collections`
+
 **External Tools:**
 - FFmpeg - for video post-processing
 
